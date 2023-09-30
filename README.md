@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/akshay-patel-03230b277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-patel-03230b277/" height="30" width="40" /></a>
 
-<a href="https://ak1code.github.io/" target="blank">Portfolio</a>
+👨‍💻 All of my projects are available at [https://ak1code.github.io](https://ak1code.github.io)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
